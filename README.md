@@ -30,3 +30,4 @@ To run the project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/brendadenisse16/Discrete-Optimization.git
+ 
