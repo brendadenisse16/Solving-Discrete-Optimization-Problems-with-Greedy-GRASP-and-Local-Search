@@ -15,6 +15,13 @@ These methods were applied to different datasets to solve problems related to hu
 - **Local Search**: A method for refining an initial solution by exploring its neighborhood.
 - **Floyd-Warshall Algorithm**: Used to find all pairs shortest paths in a weighted graph.
 
+## Results
+   The results showed that:
+
+- The **Floyd-Warshall algorithm** effectively computes all-pairs shortest paths in dense graphs.
+- The **GRASP** approach outperformed the **Greedy algorithm** in terms of solution quality for larger datasets.
+- **Local Search** improved the results of both the Greedy and GRASP solutions by refining the initial solutions.
+
 ## Project Structure
 - **/code**: Contains all the code for implementing the algorithms.
   - `floydWarshall.c`: Implementation of Floyd-Warshall algorithm.
