@@ -1,4 +1,4 @@
-# Discrete Optimization Term Project
+# Profit-oriented hub line location problem 
 
 ## Overview
 In this project, I consider a profit-oriented hub line problem in which the decisions are to determine the location of p hubs facilities connected through a path is found. The algorithms implemented include:
